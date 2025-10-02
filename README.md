@@ -6,7 +6,7 @@ This repository was created to deepen my understanding of machine learning metho
 
 The notebooks are organized to demonstrate the step-by-step process of building and evaluating algorithms. They rely on a set of widely used Python libraries:
 
-- **NumPy** – for vectorized and matrix operations, linear algebra, and linear algebra routines.
+- **NumPy** – for vectorized and matrix operations, linear algebra, and numerical routines.
 - **Pandas** – for structured data manipulation, preprocessing, and tabular analysis.
 - **Matplotlib** and **Seaborn** – for data visualization, including exploratory analysis and graphical representation of algorithm results.
 - **Scikit-learn** – for access to datasets, utility functions, and baseline models for validation.
@@ -23,7 +23,7 @@ Each notebook typically includes:
 
 | Notebook | Description |
 |----------|-------------|
-| [EDA COVID-19](notebooks/01_eda_covid19.ipynb) | A small exploratory data analysis (EDA) of COVID-19 datasets, focusing on general trends and basic insights from the data. |
+| [EDA COVID-19](notebooks/01_eda_covid19.ipynb)            | A small exploratory data analysis (EDA) of COVID-19 datasets, focusing on general trends and basic insights from the data. |
 | [Linear Regression](notebooks/02_linear_regression.ipynb) | Analysis and implementation of linear regression to identify linear relationships that may influence students’ learning outcomes. |
 
 ## Author
