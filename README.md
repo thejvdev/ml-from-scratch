@@ -21,9 +21,9 @@ Each notebook typically includes:
 
 ## Contents
 
-| Notebook                                                  | Description |
-|-----------------------------------------------------------|-------------|
-| [EDA COVID-19](notebooks/01_eda_covid19.ipynb)            | A small exploratory data analysis (EDA) of COVID-19 datasets, focusing on general trends and basic insights from the data. |
+| Notebook | Description |
+|:--------:|-------------|
+| [EDA COVID-19](notebooks/01_eda_covid19.ipynb) | A small exploratory data analysis (EDA) of COVID-19 datasets, focusing on general trends and basic insights from the data. |
 | [Linear Regression](notebooks/02_linear_regression.ipynb) | Analysis and implementation of linear regression to identify linear relationships that may influence students’ learning outcomes. |
 
 ## Author
