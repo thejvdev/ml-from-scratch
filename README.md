@@ -27,6 +27,7 @@ Each notebook typically includes:
 | [Linear Regression](notebooks/02_linear_regression.ipynb) | Analysis and implementation of linear regression to identify linear relationships that may influence students’ learning outcomes. |
 | [K-Nearest Neighbors (KNN)](notebooks/03_knn.ipynb) | Implementation and evaluation of the K-Nearest Neighbors (KNN) algorithm for both classification and regression tasks. |
 | [Principal Component Analysis (PCA)](notebooks/04_pca.ipynb) | Application of PCA for dimensionality reduction and visualization, highlighting how major components capture the key variance in the dataset. |
+| [Clustering Algorithms](notebooks/05_clustering.ipynb) | Exploration of clustering methods including K-Means, DBSCAN, and Agglomerative Clustering to identify hidden patterns and group structures in the data. |
 
 ## Author
 
