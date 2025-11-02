@@ -30,6 +30,7 @@ Each notebook typically includes:
 | [Clustering Algorithms](notebooks/05_clustering.ipynb) | Exploration of clustering methods including K-Means, DBSCAN, and Agglomerative Clustering to identify hidden patterns and group structures in the data. |
 | [Decision Tree](notebooks/06_decision_tree.ipynb) | Implementation of Decision Tree classifiers for exoplanet prediction, including visualization of decision paths and feature importance analysis. |
 | [Naive Bayes](notebooks/07_naive_bayes.ipynb) | Application of the Naive Bayes algorithm for binary classification, demonstrated through a spam detection task using text preprocessing and probabilistic modeling. |
+| [Logistic Regression](notebooks/08_logistic_regression.ipynb) | Implementation of Logistic Regression for binary classification, including polynomial feature transformation on the Two Moons dataset to demonstrate nonlinear decision boundaries. |
 
 ## Author
 
