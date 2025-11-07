@@ -10,6 +10,7 @@ The notebooks are organized to demonstrate the step-by-step process of building 
 - **Pandas** – for structured data manipulation, preprocessing, and tabular analysis.
 - **Matplotlib** and **Seaborn** – for data visualization, including exploratory analysis and graphical representation of algorithm results.
 - **Scikit-learn** – for access to datasets, utility functions, and baseline models for validation.
+- **PyTorch** – for building, training, and evaluating neural networks, offering automatic differentiation and GPU acceleration for deep learning tasks.
 
 Each notebook typically includes:
 
@@ -31,6 +32,9 @@ Each notebook typically includes:
 | [Decision Tree](notebooks/06_decision_tree.ipynb) | Implementation of Decision Tree classifiers for exoplanet prediction, including visualization of decision paths and feature importance analysis. |
 | [Naive Bayes](notebooks/07_naive_bayes.ipynb) | Application of the Naive Bayes algorithm for binary classification, demonstrated through a spam detection task using text preprocessing and probabilistic modeling. |
 | [Logistic Regression](notebooks/08_logistic_regression.ipynb) | Implementation of Logistic Regression for binary classification, including polynomial feature transformation on the Two Moons dataset to demonstrate nonlinear decision boundaries. |
+| [Ensemble Models](notebooks/09_ensemble_models.ipynb) | Comparison of major ensemble learning techniques - Bagging, Boosting, Voting, and Stacking - illustrating how model combination improves overall accuracy and robustness. |
+| [Random Forest](notebooks/09a_random_forest.ipynb) | Implementation of the Random Forest algorithm, showing how multiple decision trees trained on random subsets of data reduce variance and improve generalization. |
+| [Multilayer Perceptron (MLP)](notebooks/10_mlp.ipynb) | Construction and training of a simple Multilayer Perceptron (MLP) neural network for nonlinear classification, demonstrating backpropagation and the effect of hidden layers on learning. |
 
 ## Author
 
