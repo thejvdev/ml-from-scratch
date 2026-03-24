@@ -46,4 +46,4 @@ Each notebook typically includes:
 
 ## Author
 
-Created by [Denys Bondarchuk](https://github.com/thejvdev). Feel free to reach out or contribute to the project!
+Created by [Denys Bondarchuk](https://github.com/thejvdev). Feel free to reach out or contribute to the project.
